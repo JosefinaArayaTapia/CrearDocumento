@@ -1,0 +1,10 @@
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.bcp.dll
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.bcp.pdb
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\Fonet.dll
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\obj\Debug\ETL.Cobranza.bcp.dll
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\obj\Debug\ETL.Cobranza.bcp.pdb
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.dao.dll
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.dto.dll
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.dto.pdb
+C:\Users\mbahamonde\Documents\Visual Studio 2008\Projects\ETL.Cobranza.web\ETL.Cobranza.bcp\bin\Debug\ETL.Cobranza.dao.pdb
